@@ -1,10 +1,8 @@
 langchain
-transformers
-python-dotenv 
-PyPDF2
+streamlit
 huggingface_hub
-streamlit 
+transformers
+PyPDF2
+python-dotenv
 langchain-community
 cohere
-
--e .
