@@ -1,0 +1,6 @@
+langchain
+Transformer
+python-dotenv 
+PyPDF2
+huggingface_hub
+streamlit 
