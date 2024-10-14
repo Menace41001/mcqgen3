@@ -11,3 +11,4 @@ Requires-Dist: PyPDF2
 Requires-Dist: python-dotenv
 Requires-Dist: langchain-community
 Requires-Dist: cohere
+Requires-Dist: Ollama

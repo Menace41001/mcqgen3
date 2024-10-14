@@ -1,10 +1,8 @@
 langchain
-transformers
 python-dotenv 
 PyPDF2
-huggingface_hub
 streamlit 
 langchain-community
-cohere
+Ollama
 
 -e .

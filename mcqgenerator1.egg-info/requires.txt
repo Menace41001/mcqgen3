@@ -6,3 +6,4 @@ PyPDF2
 python-dotenv
 langchain-community
 cohere
+Ollama

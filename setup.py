@@ -5,6 +5,6 @@ setup(
     version='0.0.1',
     author="Kush",
     author_email="Kush.1001@hotmail.com",
-    install_requires = ["langchain","streamlit","huggingface_hub","transformers","PyPDF2","python-dotenv","langchain-community","cohere"],
+    install_requires = ["langchain","streamlit","PyPDF2","python-dotenv","langchain-community","Ollama"],
     packages=find_packages()
 )
